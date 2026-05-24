@@ -1,0 +1,21 @@
+## Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userprefs
+
+## SQLite database (don't commit)
+*.db
+*.db-shm
+*.db-wal
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## NuGet
+packages/
+*.nupkg
+project.lock.json
